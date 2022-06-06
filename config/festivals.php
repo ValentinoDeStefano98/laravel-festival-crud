@@ -6,63 +6,63 @@ return [
         "name" => "Coldplay",
         "genre" => "Rock",
         "song" => "A Sky Full of Stars",
-        "cover" => "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ondamusicale.it%2Fmusica%2F68005-coldplay-yellow-e-la-storia-di-una-hit-annunciata%2F&psig=AOvVaw2AuILskYvW4XLr0V0CIeTQ&ust=1654611529001000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODu5LaCmfgCFQAAAAAdAAAAABAD"
+        "cover" => "https://www.ondamusicale.it/wp-content/uploads/2021/09/coldplay-2021-foto.jpg"
     ],
     [
         "id" => 2,
         "name" => "Adele",
         "genre" => "Soul",
         "song" => "Hello",
-        "cover" => "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vogue.it%2Fmoda%2Farticle%2Fadele-concerto-abito-schiaparelli-intervista-oprah&psig=AOvVaw1dKG6T6f_ZZ441MDYiPsow&ust=1654611565109000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMDBiciCmfgCFQAAAAAdAAAAABAD"
+        "cover" => "https://compass-media.vogue.it/photos/619299904e7876c3a6b169cc/2:3/w_2240,c_limit/Adele%20in%20Custom%20Schiaparelli%20Haute%20Couture.jpg"
     ],
     [
         "id" => 3,
         "name" => "Arctic Monkeys",
         "genre" => "Alternative",
         "song" => "Do I Wanna Know?",
-        "cover" => "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ondarock.it%2Fpopmuzik%2Farcticmonkeys.htm&psig=AOvVaw0AI9MJq3mIPw6Z_5LIsVzM&ust=1654611596499000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCID2htiCmfgCFQAAAAAdAAAAABAD"
+        "cover" => "https://www.ondarock.it/images/monografie/arcticmonkeys_1_1378458269.jpg"
     ],
     [
         "id" => 4,
         "name" => "Billie Eilish",
         "genre" => "Alternative",
         "song" => "Your Power",
-        "cover" => "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkisskiss.it%2Fgossip%2Fbillie-eilish-svela-chi-e-la-sua-celebrity-crush%2F&psig=AOvVaw0kRZdP6fui4aU4huCGMjuq&ust=1654611616323000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOj1xOCCmfgCFQAAAAAdAAAAABAD"
+        "cover" => "https://mk0kisskissb8a9sk7eb.kinstacdn.com/wp-content/uploads/2021/12/BILLIE-EILISH-2-.jpg.webp"
     ],
     [
         "id" => 5,
         "name" => "Bruno Mars",
         "genre" => "Pop",
         "song" => "24K Magic",
-        "cover" => "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.billboard.it%2Fmusica%2Fpop%2Fbruno-mars-foto-nuova-musica%2F2019%2F10%2F1824368%2F&psig=AOvVaw0sM6K7fa1kVuleGKsPtjcW&ust=1654611644720000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICmte2CmfgCFQAAAAAdAAAAABAD"
+        "cover" => "https://cdn.billboard.it/wp-content/uploads/2019/10/1def7aea-bruno-mars-press-photo-credit-kai-z-feng-2016-012a-billboard-italia.jpg"
     ],
     [
         "id" => 6,
         "name" => "Doja Cat",
         "genre" => "Pop",
         "song" => "Need to Know",
-        "cover" => "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rollingstone.it%2Fmusica%2Fnews-musica%2Fdoja-cat-si-ritira-pare-proprio-di-si%2F628223%2F&psig=AOvVaw0Lkn4Vqwj2Y3CodtXIrpMX&ust=1654611670248000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCCovmCmfgCFQAAAAAdAAAAABAD"
+        "cover" => "https://www.rollingstone.it/wp-content/uploads/2021/06/dojacat.jpg"
     ],
     [
         "id" => 7,
         "name" => "Drake",
         "genre" => "Hip-Hop",
         "song" => "One Dance",
-        "cover" => "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnotiziemusica.it%2Fchi-e-drake%2Fcuriosita%2F&psig=AOvVaw3cubUb92EjPSey9clPns2Q&ust=1654611693115000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCID5_oODmfgCFQAAAAAdAAAAABAD"
+        "cover" => "https://notiziemusica.it/wp-content/uploads/2021/09/CS_Drake-640x350.jpg.webp"
     ],
     [
         "id" => 8,
         "name" => "Dua Lipa",
         "genre" => "Pop",
         "song" => "Levitating",
-        "cover" => "https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.wikipedia.org%2Fwiki%2FDua_Lipa&psig=AOvVaw2HRG1Q2G7R_qpUzGpzZqmQ&ust=1654611710451000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDeqIyDmfgCFQAAAAAdAAAAABAI"
+        "cover" => "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DuaLipaO2020522_%2861_of_110%29_%2852051423142%29_%28cropped%29.jpg/480px-DuaLipaO2020522_%2861_of_110%29_%2852051423142%29_%28cropped%29.jpg"
     ],
     [
         "id" => 9,
         "name" => "Ed Sheeran",
         "genre" => "Pop",
         "song" => "Sing",
-        "cover" => "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lastampa.it%2Fspettacoli%2Ftv%2F2021%2F10%2F29%2Fnews%2Funa-vita-da-ed-sheeran-sono-un-ragazzo-tranquillo-che-passeggia-con-sua-figlia-e-si-preoccupa-della-cena-1.40862527&psig=AOvVaw3rX7RQf1updpHoOkf5W092&ust=1654611732461000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjzv5aDmfgCFQAAAAAdAAAAABAD"
+        "cover" => "https://www.gelestatic.it/thimg/_fHP3bZQtwQh751WZIEwJVKedfM=/fit-in/960x540/filters:format(webp)/https%3A//www.lastampa.it/image/contentid/policy%3A1.40862521%3A1635501135/image/image.jpg%3Ff%3Ddetail_558%26h%3D720%26w%3D1280%26%24p%24f%24h%24w%3Dd5eb06a"
     ],
 ];
 

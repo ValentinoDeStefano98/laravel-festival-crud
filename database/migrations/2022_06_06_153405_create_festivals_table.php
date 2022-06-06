@@ -18,7 +18,7 @@ class CreateFestivalsTable extends Migration
             $table->string('name');
             $table->string('genre');
             $table->string('song');
-            $table->text('cover');
+            $table->string('cover', "600");
             $table->timestamps();
         });
     }
